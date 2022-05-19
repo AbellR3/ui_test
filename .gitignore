@@ -1,2 +1,4 @@
 env/
-
+allureres/
+.pytest_cache/
+__pycache__/

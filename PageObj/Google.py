@@ -1,4 +1,3 @@
-from tkinter import Button
 from BaseClass import BasePage
 from selenium.webdriver.common.by import By
 import allure
